@@ -1,0 +1,5 @@
+/bin/
+/target/
+/.allure/
+/allure-results/
+/.idea/
